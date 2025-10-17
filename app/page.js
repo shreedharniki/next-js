@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-   <h1>heloo next js</h1>
+   <h1>heloo world</h1>
   );
 }
