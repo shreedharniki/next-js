@@ -23,28 +23,15 @@ export default function Home() {
           <ProjectCard
             title="CRM Dashboard"
             stack="PHP, MySQL, Razorpay"
-            desc="E-commerce platform with cart, vendor registration, and email reminders."
+            desc="crm."
           />
           <ProjectCard
-            title="ALUK E-commerce"
-            stack="PHP, MySQL, Razorpay"
-            desc="E-commerce platform with cart, vendor registration, and email reminders."
+            title="Nursing Home Management"
+            stack="React.js,node .js MySQL, "
+            desc=".Nursing Home Management"
           />
-          <ProjectCard
-            title="ALUK E-commerce"
-            stack="PHP, MySQL, Razorpay"
-            desc="E-commerce platform with cart, vendor registration, and email reminders."
-          />
-          <ProjectCard
-            title="ALUK E-commerce"
-            stack="PHP, MySQL, Razorpay"
-            desc="E-commerce platform with cart, vendor registration, and email reminders."
-          />
-          <ProjectCard
-            title="ALUK E-commerce"
-            stack="PHP, MySQL, Razorpay"
-            desc="E-commerce platform with cart, vendor registration, and email reminders."
-          />
+          
+          
         </div>
       </section>
     </div>

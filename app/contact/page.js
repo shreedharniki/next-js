@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <section className="p-8 text-center max-w-2xl mx-auto">
+    <section className="p-8 pt-50 text-center max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
       <p className="mb-6 text-gray-700">
         I’d love to hear from you! Whether it’s a project, collaboration, or just a chat.
