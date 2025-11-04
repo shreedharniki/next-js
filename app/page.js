@@ -23,7 +23,7 @@ export default function Home() {
           <ProjectCard
             title="CRM Dashboard"
             stack="PHP, MySQL, Razorpay"
-            desc="crm."
+            desc="crm devlop."
           />
           <ProjectCard
             title="Nursing Home Management"
