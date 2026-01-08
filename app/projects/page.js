@@ -12,11 +12,24 @@ export default function ProjectsPage() {
       title: "ALUK E-Commerce Platform",
       tech: "PHP, MySQL, Razorpay API, HTML/CSS, SMTP",
       desc: "Built a vendor-based e-commerce site with cart, calendar integration, and automated emails.",
+      link: "https://alukportal.in/",
     },
     {
       title: "CRM System",
       tech: "PHP, MySQL",
       desc: "Created a custom CRM with role-based access and customer email automation.",
+    },
+     {
+      title: "DAP",
+      tech: "PHP, MySQL",
+      desc: "DAP Dapcouriers.com .",
+      link
+    },
+     {
+      title: "IBN Inpact Business Network",
+      tech: "PHP, MySQL",
+      desc: "Attendance and   Meeting Online ofline NFC Card Management System.",
+      link: "https://myibn.net/",
     },
   ];
 
