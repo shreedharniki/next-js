@@ -31,7 +31,11 @@ export default function Page() {
                   desc=".Nursing Home Management"
                 />
                 
-                
+                <ProjectCard
+                  title="sdhjchsdc"
+                  stack="mcnjdc, "
+                  desc=".Nursing Home Management"
+                />
               </div>
             </section>
     </div>
